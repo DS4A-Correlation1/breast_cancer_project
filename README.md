@@ -2,7 +2,7 @@
 
 This project was done as part of the requirements for Correlation One's Data Science For All / Women Program. Breast cancer is one of the leading causes of death in women. Through this project we analyse several risk factors that determine the presence of invasive breast cancer and classify breast histopathology and ultrasound scans.
 
-<img src=" https://github.com/DS4A-Correlation1/breast_cancer_project/blob/main/datafolio.jpeg" width="400">
+<img src="https://github.com/DS4A-Correlation1/breast_cancer_project/blob/main/datafolio.jpeg" width="400">
 
 ## Datasets
 - Risk Factors Estimation Dataset consists of risk factor data (e.g. age, race, age at first birth, etc.) from
